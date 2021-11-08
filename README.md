@@ -54,13 +54,13 @@ python Server.py <server_port>
 
 với <server_port> là port để Server thiết lập RTSP connections. Port RTSP tiêu chuẩn là 554 nhưng trong Assignment này, ta cần dùng port lớn hơn 1024
 
-- sau đó, tạo một cửa sổ terminal mới và khởi chạy Client với command sau:
+- Sau đó, tạo một cửa sổ terminal mới và khởi chạy Client với command sau:
 
 ```python
-python ClientLauncher.py <server_host> <server_port> <RTP_port> <video_file>
+python ClientLauncher.py <server_host> <server_port> <rtp_port> <video_file>
 ```
 
-với <server_host> là địa chỉ IP của máy chạy Server, <server_port> trùng với command trước đó, <RTP_port> là port nhận RTP_packet, <video_file> là tên file video ta muốn xem (ví dụ trong Project là file movie.Mjpeg)
+với <server_host> là địa chỉ IP của máy chạy Server, <server_port> trùng với command trước đó, <rtp_port> là port nhận RTP_packet, <video_file> là tên file video ta muốn xem (ví dụ trong Project là file movie.Mjpeg)
 
 [fb1]: https://www.facebook.com/toanvo4121/
 [fb2]: https://www.facebook.com/Cuongflorid/
