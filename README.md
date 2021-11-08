@@ -29,7 +29,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 |  4  | Nguyễn Hải Linh  |  1913944   | linh.nguyen1505@hcmut.edu.vn   | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb4] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git4] |
 
 ## Requirements
-Đề bài được mô tả chi tiết trong file <>
+Đề bài được mô tả chi tiết trong file <[HK1_2122_VideoStreamingApplication_Assig1.pdf](https://github.com/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication/files/7495860/HK1_2122_VideoStreamingApplication_Assig1.pdf)>
 
 ## Languages & Tools
 
@@ -66,7 +66,7 @@ python ClientLauncher.py <server_host> <server_port> <rtp_port> <video_file>
 với <server_host> là địa chỉ IP của máy chạy Server, <server_port> trùng với command trước đó, <rtp_port> là port nhận RTP_packet, <video_file> là tên file video ta muốn xem (ví dụ trong Project là file movie.Mjpeg)
 
 ## Report
-Báo cáo chi tiết project ở file <>
+Báo cáo chi tiết project ở file <[Report Assignment 1.pdf](https://github.com/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication/files/7495870/Report.Assignment.1.pdf)>
 
 [fb1]: https://www.facebook.com/toanvo4121/
 [fb2]: https://www.facebook.com/Cuongflorid/
