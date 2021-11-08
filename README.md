@@ -68,6 +68,10 @@ với <server_host> là địa chỉ IP của máy chạy Server, <server_port> 
 ## Report
 Báo cáo chi tiết project ở file <[Report Assignment 1.pdf](https://github.com/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication/files/7495870/Report.Assignment.1.pdf)>
 
+```
+Nếu bạn muốn tham khảo thêm Assignment 2 có thể vào link sau <https://drive.google.com/drive/folders/1qASj_nUW76tCsfbdj1f0kfRRGVmulxYS?usp=sharing>
+```
+
 [fb1]: https://www.facebook.com/toanvo4121/
 [fb2]: https://www.facebook.com/Cuongflorid/
 [fb3]: https://www.facebook.com/kazami190125/
