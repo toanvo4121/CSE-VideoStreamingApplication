@@ -9,7 +9,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HCMUT_official_logo.png/238px-HCMUT_official_logo.png)](https://www.hcmut.edu.vn/vi)
 <br />
-<img src="https://badgen.net/github/stars/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication?icon=github&color=4ab8a1"> <img src="https://img.shields.io/github/repo-size/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication"> <img src="https://img.shields.io/github/languages/top/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication?icon=github&color=4ab8a1">
+<img src="https://badgen.net/github/stars/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication?icon=github&color=4ab8a1">&emsp;<img src="https://img.shields.io/github/repo-size/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication?color=orange&label=size&logo=git&logoColor=orange">&emsp;<img src="https://img.shields.io/github/languages/top/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication?color=green&logo=python&logoColor=green">&emsp;<img src="https://img.shields.io/github/last-commit/toanvo4121/CSE-ComputerNetwork-VideoStreamingApplication?color=red">
 <br />
 
 **Computer Network / Semester 211**
